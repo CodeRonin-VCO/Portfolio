@@ -8,24 +8,33 @@ Passionné par le développement web, je me spécialise en fullstack JavaScript 
 
 ## Mes Projets
 
-### 1️⃣ [CV en ligne](https://github.com/CodeRonin-VCO/Resume)  
-**Technologies :** HTML5, Sass, JavaScript Vanilla  
-**Lien :** [Démo en ligne](https://coderonin-vco.github.io/Resume/)  
-**Description :** Un CV interactif et responsive, conçu pour présenter mon parcours, mes compétences et mes réalisations de manière claire et moderne.  
+### [App Quiz](https://github.com/CodeRonin-VCO/colin-malin-client.git)
+[server](https://github.com/CodeRonin-VCO/colin-malin-server.git)
+**Technologies :** Express, React, Node.js, postgreSQL
+**Lien :** [Développement en cours]  
+**Description :** Une application interactive de quiz conçue pour tester et renforcer les connaissances des utilisateurs sur divers sujets. Ce projet met en avant ma maîtrise des architectures client-serveur, avec une gestion dynamique des questions et des scores, ainsi qu’une interface utilisateur intuitive développée avec React et Express. *(En cours de finalisation)*
 
 ---
 
-### 2️⃣ [To-Do List Intelligente](https://github.com/CodeRonin-VCO/to-do-list)
+### [Mini RPG](https://github.com/CodeRonin-VCO/rpg-pawsfinder.git)
+**Technologies :** React, JavaScript  
+**Lien :** [Démo en ligne](https://coderonin-vco.github.io/rpg-pawsfinder/)  
+**Description :** Une application de jeu de rôle minimaliste. Ce projet m’a permis d’approfondir mes compétences en gestion d’état et en logique de jeu avec React, tout en offrant une expérience ludique et immersive.
+
+---
+
+### [Mini Réseau Social (TFF - Travail de Fin de Formation)](https://github.com/CodeRonin-VCO/donkey-client.git])
+[serverhttps://github.com/CodeRonin-VCO/donkey-server-main.git)
+**Technologies :** MERN Stack (MongoDB, Express, React, Node.js)  
+**Lien :** [Démo à venir]  
+**Description :** Un mini réseau social développé en 15 jours pour valider mes compétences fullstack. Fonctionnalités clés : création de profils, publication de messages, système de commentaires et likes.  
+
+---
+
+### [To-Do List Intelligente](https://github.com/CodeRonin-VCO/to-do-list)
 **Technologies :** React, JavaScript  
 **Lien :** [Démo en ligne](https://coderonin-vco.github.io/to-do-list/)  
 **Description :** Une application de gestion de tâches intuitive, permettant aux utilisateurs d’organiser leurs activités quotidiennes. Ce projet m’a permis de renforcer mes compétences en **React** et en gestion d’état.  
-
----
-
-### 3️⃣ [Mini Réseau Social (TFF - Travail de Fin de Formation)](https://github.com/CodeRonin-VCO/[nom-du-repo-tff])
-**Technologies :** MERN Stack (MongoDB, Express, React, Node.js)  
-**Lien :** [Démo à venir]  
-**Description :** Un mini réseau social développé en 15 jours pour valider mes compétences fullstack. Fonctionnalités clés : création de profils, publication de messages, système de commentaires et likes. *(En cours de finalisation)*  
 
 ---
 
@@ -44,7 +53,6 @@ Passionné par le développement web, je me spécialise en fullstack JavaScript 
 | Technologie  | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
 | **Sass**     | Préprocesseur CSS pour un code modulaire et maintenable.                   |
-| **GSAP**     | Animations avancées et interactives pour le web.                           |
 | **React**    | Développement d’interfaces dynamiques, hooks, gestion d’état (Context, Redux). |
 | **Node.js**  | Environnement serveur, création d’APIs, gestion de paquets (NPM).         |
 | **Express.js** | Framework backend pour construire des APIs RESTful et des serveurs web.   |
@@ -81,9 +89,8 @@ Passionné par le développement web, je me spécialise en fullstack JavaScript 
 
 ## Contact
 
-📩 **Email :** [ton.email@example.com]
-🔗 **LinkedIn :** [ton-profil-linkedin]
-🐦 **Twitter :** [@ton-compte-twitter]
+📩 **Email :** [vincentcss16@gmail.com]
+🔗 **LinkedIn :** [www.linkedin.com/in/vincent-cosyns-85460614b]
 
 N’hésitez pas à me contacter pour échanger sur des opportunités ou des collaborations !
 
