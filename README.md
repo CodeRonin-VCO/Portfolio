@@ -24,7 +24,7 @@ Passionné par le développement web, je me spécialise en fullstack JavaScript 
 ---
 
 ### [Mini Réseau Social (TFF - Travail de Fin de Formation)](https://github.com/CodeRonin-VCO/donkey-client.git])
-**[server]https://github.com/CodeRonin-VCO/donkey-server-main.git)**
+**[server]https://github.com/CodeRonin-VCO/donkey-server-main.git**
 
 **Technologies :** MERN Stack (MongoDB, Express, React, Node.js)  
 **Description :** Un mini réseau social développé en 15 jours pour valider mes compétences fullstack. Fonctionnalités clés : création de profils, publication de messages, système de commentaires et likes.  
