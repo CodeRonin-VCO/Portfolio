@@ -63,19 +63,20 @@ Passionné par le développement web, je me spécialise en fullstack JavaScript 
 | Technologie  | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
 | **MongoDB**  | Base de données NoSQL, modélisation de données avec Mongoose.               |
-| **PostgreSQL** | Base de données relationnelle, requêtes SQL, optimisation.                 |
+| **PostgreSQL** | Base de données relationnelle, requêtes SQL, optimisation avec Sequelize.                 |
 
 ---
 
 ### 🔧 **Outils & Méthodologies**
 | Outil/Logiciel | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
-| **VS Code**    | Éditeur de code avec extensions (ESLint, Prettier, Live Server).           |
+| **VS Code**    | Éditeur de code avec extensions.           |
 | **Git/GitHub** | Versioning, collaboration, gestion de dépôts (branches, pull requests).  |
 | **NPM**        | Gestion des dépendances et scripts pour les projets JavaScript.            |
 | **Docker**     | Conteneurisation d’applications pour un déploiement simplifié.             |
 | **Postman**    | Test et documentation d’APIs RESTful.                                      |
 | **Mongoose**   | ODM pour MongoDB, schémas et validation des données.                       |
+| **Sequelize**   | ODM pour PostgreSQL, schémas et validation des données.                       |
 
 ---
 
