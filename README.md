@@ -1,6 +1,6 @@
 # Portfolio
 
-Bienvenue sur mon portfolio ! Ce dépôt regroupe mes projets réalisés au cours d’une formation intensive de 6 mois en développement fullstack JavaScript. Vous y découvrirez une progression cohérente, allant du plus simple au plus complexe, illustrant l’évolution de mes compétences techniques et la diversité de mes réalisations.
+Bienvenue sur mon portfolio ! Ce dépôt regroupe mes projets réalisés au cours d’une formation intensive de 6 mois en développement fullstack JavaScript. Vous y découvrirez une progression cohérente, allant du plus récent au plus ancien, illustrant l’évolution de mes compétences techniques et la diversité de mes réalisations.
 
 ## À propos de moi
 
